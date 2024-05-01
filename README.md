@@ -1,2 +1,2 @@
-# Geometry of Concept Grasp in Latent Space
-Geometry of concept grasp in latent space
+# The Latent Space Geometry of Concept Grasping
+The latent space geometry of concept grasping
